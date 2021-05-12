@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/percent-manipulative/static/css/main.c695d514.chunk.css",
+    "main.js": "/percent-manipulative/static/js/main.abbc9f56.chunk.js",
+    "main.js.map": "/percent-manipulative/static/js/main.abbc9f56.chunk.js.map",
+    "runtime-main.js": "/percent-manipulative/static/js/runtime-main.8b8de241.js",
+    "runtime-main.js.map": "/percent-manipulative/static/js/runtime-main.8b8de241.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/percent-manipulative/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.1ec25de5.chunk.js": "/percent-manipulative/static/js/2.1ec25de5.chunk.js",
+    "static/js/2.1ec25de5.chunk.js.map": "/percent-manipulative/static/js/2.1ec25de5.chunk.js.map",
+    "static/js/3.2192347a.chunk.js": "/percent-manipulative/static/js/3.2192347a.chunk.js",
+    "static/js/3.2192347a.chunk.js.map": "/percent-manipulative/static/js/3.2192347a.chunk.js.map",
+    "index.html": "/percent-manipulative/index.html",
+    "service-worker.js": "/percent-manipulative/service-worker.js",
+    "service-worker.js.map": "/percent-manipulative/service-worker.js.map",
+    "static/css/2.20aa2d7b.chunk.css.map": "/percent-manipulative/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.c695d514.chunk.css.map": "/percent-manipulative/static/css/main.c695d514.chunk.css.map",
+    "static/js/2.1ec25de5.chunk.js.LICENSE.txt": "/percent-manipulative/static/js/2.1ec25de5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b8de241.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.1ec25de5.chunk.js",
+    "static/css/main.c695d514.chunk.css",
+    "static/js/main.abbc9f56.chunk.js"
+  ]
+}
